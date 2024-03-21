@@ -45,7 +45,7 @@
                         </div>
                         <!-- END item -->
 
-                        <div class="item">
+                        {{-- <div class="item">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8 mx-auto">
 
@@ -99,7 +99,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- END item -->
+                        <!-- END item --> --}}
                     </div>
 
                 </div>
